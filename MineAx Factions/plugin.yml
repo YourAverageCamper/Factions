@@ -1,0 +1,8 @@
+name: MineAxFactions
+version: 1.0
+description: Factions plugin for MineAx Server
+main: me.zeus.MAFactions.Core.MAFactions
+commands:
+  faction:
+    description: Master faction command
+    aliases: [f, fac]
